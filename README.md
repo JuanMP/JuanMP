@@ -3,6 +3,13 @@
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmp&label=Profile%20views&color=0e75b6&style=flat" alt="juanmp" /> </p>
 
+  <h3 align="left">Sobre mi:</h3>
+  <ul>
+    <li>Administración y Finanzas</li>
+    <li>Desarrollo de Aplicaciones Web</li>
+    <li></li>
+  </ul>
+
   <h3 align="left">Conéctate conmigo:</h3>
   <p align="left">
     <a href="https://facebook.com/juanmartinezperez18" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juanmartinezperez18" height="30" width="40" /></a>
