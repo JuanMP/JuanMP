@@ -1,12 +1,11 @@
 <h1 align="center">Hola 👋, soy Juan</h1>
 <h3 align="center">Desarrollador backend de España</h3>
 
-<p align="left"> <img src="https ://komarev.com/ghpvc/?username=juanmp&label=Profile%20views&color=0e75b6&style=flat" alt="juanmp" /> </p>
+<p> align="left"> <img src="https ://komarev.com/ghpvc/?username=juanmp&label=Profile%20views&color=0e75b6&style=flat" alt="juanmp" /> </p>
 
 <h3 align="left">Conéctate conmigo:</h3>
-< p align="izquierda">
-<a href="https://fb.com/juanmartinezperez18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/ github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juanmartinezperez18" height="30" width="40" /></a> <
-a href="https: //instagram.com/juanmartinezperez_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/ iconos/Social/instagram.svg" alt="juanmartinezperez_" height="30" width="40" /></a>
+<p align="izquierda">
+<a href="https://fb.com/juanmartinezperez18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/ github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juanmartinezperez18" height="30" width="40" /></a> <a href="https: //instagram.com/juanmartinezperez_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/ iconos/Social/instagram.svg" alt="juanmartinezperez_" height="30" width="40" /></a>
 <a href="https://discord.gg/juanthenova" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="juanthenova" altura ="30" width="40" /></a>
 </p>
 
