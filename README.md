@@ -38,10 +38,14 @@
 
 <h3 align="left">Estadísticas de Github:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmp&show_icons=true&locale=en&layout=compact" alt="juanmp" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=juanmp&show_icons=true&locale=en" alt="juanmp" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanMP&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="juanmp-stats" />
+</p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMP&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="juanmp-languages" />
+</p>
 
 
 
