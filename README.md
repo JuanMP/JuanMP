@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Juan</h1>
-  <h3 align="center">Desarrollador backend de España</h3>
+  <h3 align="center">Estudiante de Desarrollo de Aplicaciones Web</h3>
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmp&label=Profile%20views&color=0e75b6&style=flat" alt="juanmp" /> </p>
 
