@@ -7,7 +7,6 @@
   <ul>
     <li>Administración y Finanzas</li>
     <li>Desarrollo de Aplicaciones Web</li>
-    <li></li>
   </ul>
 
   <h3 align="left">Conéctate conmigo:</h3>
