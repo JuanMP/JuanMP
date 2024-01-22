@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋, soy Juan</h1>
   <h3 align="center">Estudiante de Desarrollo de Aplicaciones Web</h3>
 
+
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmp&label=Profile%20views&color=0e75b6&style=flat" alt="juanmp" /> </p>
 
   <h3 align="left">Sobre mi:</h3>
@@ -11,6 +12,8 @@
 
   <h3 align="left">Conéctate conmigo:</h3>
   <p align="left">
+        <a href="https://linkedin.com/in/juanmp" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanmp" height="30" width="40" />
+</a>
     <a href="https://facebook.com/juanmartinezperez18" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juanmartinezperez18" height="30" width="40" /></a>
     <a href="https://instagram.com/juanmartinezperez_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juanmartinezperez_" height="30" width="40" /></a>
     <a href="https://discord.gg/juanthenova" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="juanthenova" height="30" width="40" /></a>
@@ -35,11 +38,15 @@
 
 <h3 align="left">Estadísticas de Github:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=JuanMP&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmp&show_icons=true&locale=en&layout=compact" alt="juanmp" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=juanmp&show_icons=true&locale=en" alt="juanmp" /></p>
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMP&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
