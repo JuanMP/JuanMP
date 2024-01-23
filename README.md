@@ -1,4 +1,4 @@
-¡<h1 align="center">Hola 👋, soy Juan</h1>
+<h1 align="center">Hola 👋, soy Juan</h1>
   <h3 align="center">Estudiante de Desarrollo de Aplicaciones Web</h3>
 
 
